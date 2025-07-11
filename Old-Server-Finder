@@ -1,1 +1,1 @@
-loadstring(game:HttpGet("https://raw.githubusercontent.com/justenfrans/Old-Server-Finder/refs/heads/main/d2eae974691b0f9562814f0dbe6c1240.txt"))()
+loadstring(game:HttpGet("https://gist.githubusercontent.com/silenceyeww/9679c9664762da35ea0b734d6a2bf5f8/raw/script.lua"))()
